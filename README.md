@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 [![Gentoo](https://img.shields.io/badge/Gentoo-Linux-purple?style=flat-square&logo=Gentoo)](https://www.gentoo.org/)
 
-[![LeeSin Emacs](https://img.shields.io/badge/LeeSin%20Emacs-blue?style=flat-square&logo=Gnu%20emacs&logoColor=white)](https://github.com/EndlessPeak/.emacs.d/)
+[![Lee Sin Emacs](https://img.shields.io/badge/Emacs-Lee%20Sin-blue?style=flat-square&logo=Gnu%20emacs&logoColor=white)](https://github.com/EndlessPeak/.emacs.d/)
